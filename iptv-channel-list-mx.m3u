@@ -13,7 +13,7 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=6&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=93&f=.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png",AZTECA 7
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=3&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/Icons/Distrito%20Comedia.svg",DISTRITO COMEDIA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=16&f=.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",TELEMUNDO INTERNACIONAL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=137&f=.ts
@@ -21,21 +21,21 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=137&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=21&f=.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",DPELICULA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=163&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/Logos/Unicable.svg",UNICABLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/Icons/UNICABLE.svg",UNICABLE
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=30&f=.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Eltrece_Internacional_2017.png",EL TRECE
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=15&f=.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png",TLC DISCOVERY
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=86&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/Logos/Discovery%20Home%20%26%20Health.svg",DISCOVERY Home & Health
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/Icons/DISCOVERY%20HOME%20%26%20HEALTH.svg",DISCOVERY Home & Health
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=76&f=.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png",LIFETIME
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=90&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/Logos/TNT%20Novelas.svg",TNT NOVELAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/Icons/TNT%20Novelas.svg",TNT NOVELAS
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=166&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/Logos/TNT%20Series.svg",TNT SERIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/Icons/TNT%20Series.svg",TNT SERIES
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=36&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/Logos/TNT.svg",TNT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/Icons/TNT.svg",TNT
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=10&f=.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",STUDIO UNIVERSAL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=53&f=.ts
@@ -81,6 +81,7 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=18&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=66&f=.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/AS_logo.svg",ADULT SWIM
 http://live.tvplayerlatino.com/lista_remota/src1/5pBpi.m3u8
+
 
 
 
