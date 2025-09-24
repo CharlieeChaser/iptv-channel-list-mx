@@ -83,6 +83,10 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=66&f=.ts
 http://104.238.205.28:8989/278391_.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Death Note
 https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Dish Test
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(adultswim)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Dish Test 2
+https://dish.akamaized.net/Content/DASH/Live/channel(adultswim)/variant.mpd
 
 
 
