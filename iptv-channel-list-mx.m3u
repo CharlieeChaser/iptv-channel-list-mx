@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Tlnovelas.png",TLNOVELAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Tlnovelas.png",Tlnovelas
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=24&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Las%20Estrellas.png",Las Estrellas
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=25&f=.ts
@@ -81,6 +81,7 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=18&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=66&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim
 http://live.tvplayerlatino.com/lista_remota/src1/5pBpi.m3u8
+
 
 
 
