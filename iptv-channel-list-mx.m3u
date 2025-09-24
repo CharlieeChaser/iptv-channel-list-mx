@@ -80,7 +80,8 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=18&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/MTV.png",MTV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=66&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim
-http://live.tvplayerlatino.com/lista_remota/src1/5pBpi.m3u8
+http://181.78.109.49:8000/play/a01s/index.m3u8
+
 
 
 
