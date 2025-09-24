@@ -80,9 +80,10 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=18&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/MTV.png",MTV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=66&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim
-https://dish.akamaized.net/Content/DASH/Live/channel(disney_channel)/variant.mpd 
+http://181.78.109.49:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Death Note
 https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
+
 
 
 
