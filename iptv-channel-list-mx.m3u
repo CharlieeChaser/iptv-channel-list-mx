@@ -63,6 +63,8 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=88&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=13&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/AMC.png",AMC
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=60&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Sony%20Channel.png",Sony Channel
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=37&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Discovery%20Kids.png",Discovery Kids
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=113&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Disney%20Channel.png",Disney Channel
@@ -71,24 +73,22 @@ http://flx.lat:8080/MATHIAS2021/st7JNDTCrcCu/120287
 https://tvpass.org/live/DisneyXDEast/hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Comedy%20Central.png",Comedy Central
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=67&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Disney%20Jr.png",Disney JR
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=96&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Nickelodeon.png",Nickelodeon
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=104&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Nick%20Jr.png",Nick Jr
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=105&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Cartoon%20Network.png",Cartoon Network
 http://flx.lat:8080/MATHIAS2021/st7JNDTCrcCu/120284
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Cartoonito.png",Cartoonito
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=108&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Disney%20Jr.png",Disney JR
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=96&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Nick%20Jr.png",Nick Jr
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=105&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/National%20Geographic.png",NAT GEO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=68&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Animal%20Planet.png",Animal Planet
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=69&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/History%20Channel.png",History Channel
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=18&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/MTV.png",MTV
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=66&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim
 http://177.234.230.206:8011/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Death Note
@@ -105,8 +105,8 @@ http://flx.lat:8080/MATHIAS2021/st7JNDTCrcCu/120064
 http://flx.lat:8080/MATHIAS2021/st7JNDTCrcCu/120068
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/HBO%20Pop.png",HBO Signature
 http://flx.lat:8080/MATHIAS2021/st7JNDTCrcCu/120060
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/MTV.png",MTV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=66&f=.ts
 
 
 
