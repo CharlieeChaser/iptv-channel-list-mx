@@ -21,7 +21,7 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=87&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=182&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/DPelícula.png",DPelícula
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=124&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/UNICABLE.png",Unicable
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Unicable.png",Unicable
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=173&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/El%20Trece.png",El Trece
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=82&f=.ts
@@ -65,10 +65,8 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=187&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=159&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Discovery%20Kids.png",Discovery Kids
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=136&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Disney%20Channel.png",Disney Channel ARG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Disney%20Channel.png",Disney Channel
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=125&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Disney%20Channel.png",Disney Channel MX
-http://flx.lat:8080/MATHIAS2021/st7JNDTCrcCu/120287
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Disney%20XD.png",Disney XD
 http://cord-cutter.net:8080/bn80NG/909467/57420
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Comedy%20Central.png",Comedy Central
@@ -79,6 +77,8 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=141&f=.ts
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/14909.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/33697.ts
+#EXTINF:-1 tvg-logo="https://github.com/CharlieeChaser/iptv-channel-list-mx/blob/main/PNG%20Icons/Bitme.png",BitMe
+http://38.44.109.41:8003/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Cartoonito.png",Cartoonito
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=138&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Disney%20Jr.png",Disney JR
@@ -111,7 +111,6 @@ http://flx.lat:8080/MATHIAS2021/st7JNDTCrcCu/120060
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=157&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/María%20Visión.png",María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-
 
 
 
