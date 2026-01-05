@@ -19,6 +19,8 @@ http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7277
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/21127.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Azteca%20Uno.png",Azteca Uno
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1091747&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Canal%20Once.png",Canal Once
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1091767&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/DPelícula.png",DPelícula
 http://live.detodotvplay.com:8080/Risario8/Pineda13/19
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Unicable.png",Unicable
