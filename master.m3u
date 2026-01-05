@@ -4,13 +4,13 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/286884.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Las%20Estrellas.png",Las Estrellas
 http://live.detodotvplay.com:8080/Risario8/Pineda13/41
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Imagen%20Televisión.png",Imagen TV
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=172&f=.ts
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1091786&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Univision.png",Univision
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=174&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/El%20Gourmet.png",El Gourmet
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/235.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Canal%205.png",Canal 5
-http://live.detodotvplay.com:8080/Risario8/Pineda13/120
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1091759&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Azteca%207.png",Azteca 7
 http://live.detodotvplay.com:8080/Risario8/Pineda13/42
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Distrito%20Comedia.png",Distrito Comedia
@@ -18,7 +18,7 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=186&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Telemundo.png",Telemundo
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/21127.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Azteca%20Uno.png",Azteca Uno
-http://live.detodotvplay.com:8080/Risario8/Pineda13/44
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1091747&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/DPelícula.png",DPelícula
 http://live.detodotvplay.com:8080/Risario8/Pineda13/19
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Unicable.png",Unicable
@@ -111,6 +111,7 @@ http://sudaka.link:25461/jotace62/KxU3de1Fr5/15317.ts
 http://live.detodotvplay.com:8080/Risario8/Pineda13/80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/María%20Visión.png",María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
 
 
 
