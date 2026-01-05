@@ -20,7 +20,7 @@ http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7593
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Azteca%20Uno.png",Azteca Uno
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1091747&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Canal%20Once.png",Canal Once
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1091767&extension=ts
+https://tv.nousiptv.com:8443/RFarias/07122020/4035
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/DPelícula.png",DPelícula
 http://live.detodotvplay.com:8080/Risario8/Pineda13/19
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/El%20Trece.png",El Trece
@@ -115,6 +115,7 @@ http://sudaka.link:25461/jotace62/KxU3de1Fr5/15317.ts
 http://sudaka.link:25461/live/fabian/fabian1/13999.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/María%20Visión.png",María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
 
 
 
