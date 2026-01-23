@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Tlnovelas.png",Tlnovelas
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/286884.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Las%20Estrellas.png",Las Estrellas
-http://sudaka.link:25461/live/fabian/fabian1/17739.m3u8
+http://sudaka.link:25461/live/fabian/fabian1/17739.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Imagen%20Televisión.png",Imagen TV
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7186
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Univision.png",Univision
