@@ -16,7 +16,7 @@ http://103.111.40.244:9999/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Distrito%20Comedia.png",Distrito Comedia
 http://103.111.40.244:9999/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Telemundo.png",Telemundo Internacional
-https://tv.nousiptv.com:8443/RFarias/07122020/43189
+http://103.111.40.244:9999/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Azteca%20Uno.png",Azteca Uno
 https://tv.nousiptv.com:8443/RFarias/07122020/1155859
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Canal%20Once.png",Canal Once
@@ -30,13 +30,13 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/59106.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/TLC.png",TLC
 http://tv.nousiptv.com:80/osvaldoserga/os4112021/4074
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Discovery%20Home%20%26%20Health.png",Discovery Home & Health
-http://tv.nousiptv.com:80/osvaldoserga/os4112021/4070
+http://103.111.40.244:9999/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Lifetime.png",Lifetime
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/581126.m3u8
+http://103.111.40.244:9999/play/a0lv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Food%20Network.png",Food Network
 https://tv.nousiptv.com:8443/RFarias/07122020/4057
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/TNT.png",TNT
-http://sudaka.link:25461/live/fabian/fabian1/13996.m3u8
+http://103.111.40.244:9999/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/TNT%20Novelas.png",TNT Novelas
 http://sudaka.link:25461/live/fabian/fabian1/4337.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/TNT%20Series.png",TNT Series
@@ -44,11 +44,11 @@ http://sudaka.link:25461/live/fabian/fabian1/13993.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Studio%20Universal.png",Studio Universal
 http://sudaka.link:25461/live/fabian/fabian1/15687.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Star%20Channel.png",Star Channel
-https://tv.nousiptv.com:8443/RFarias/07122020/4022
+http://103.111.40.244:9999/play/a05n/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/FX.png",FX
 http://live.detodotvplay.com:8080/Risario8/Pineda13/65
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Space.png",Space
-http://sudaka.link:25461/live/fabian/fabian1/14002.m3u8
+http://103.111.40.244:9999/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Warner%20Bros%20TV.png",Warner Bros. TV
 http://sudaka.link:25461/live/fabian/fabian1/13973.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Sony%20Channel.png",Sony Channel
@@ -96,7 +96,7 @@ http://sudaka.link:25461/live/fabian/fabian1/14003.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Animal%20Planet.png",Animal Planet
 http://live.detodotvplay.com:8080/Risario8/Pineda13/236
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/History%20Channel.png",History Channel
-http://sudaka.link:25461/live/fabian/fabian1/13945.m3u8
+http://103.111.40.244:9999/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/ESPN.png",ESPN
 http://live.detodotvplay.com:8080/Risario8/Pineda13/251
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/ESPN%202.png",ESPN 2
@@ -104,11 +104,11 @@ http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7237
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/N%2BForo.png",N+Foro
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:10:F7&stream=1091780&extension=m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/HBO.png",HBO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/47
+http://103.111.40.244:9999/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/HBO%202.png",HBO 2
-http://live.detodotvplay.com:8080/Risario8/Pineda13/49
+http://103.111.40.244:9999/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/HBO%20Family.png",HBO Family
-http://sudaka.link:25461/live/fabian/fabian1/15562.m3u8
+http://103.111.40.244:9999/play/a023/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/HBO%20Pop.png",HBO Pop
 http://sudaka.link:25461/live/fabian/fabian1/15317.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/MTV.png",MTV
