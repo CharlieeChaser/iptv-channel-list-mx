@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg971"
+   viewBox="0 0 97.912132 100.00008"
+   version="1.1"
+   sodipodi:docname="Discovery Kids.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   width="97.912132"
+   height="100.00008"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Монтажная область 2</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     id="namedview22"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:zoom="7.35"
+     inkscape:cx="48.979592"
+     inkscape:cy="50"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg971"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="false" />
+  <defs
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient853">
+      <stop
+         style="stop-color:#00dd4e;stop-opacity:1"
+         offset="0"
+         id="stop849" />
+      <stop
+         style="stop-color:#16df4e;stop-opacity:1"
+         offset="0.39999998"
+         id="stop857" />
+      <stop
+         style="stop-color:#80f559;stop-opacity:1"
+         offset="0.69999999"
+         id="stop859" />
+      <stop
+         style="stop-color:#b2ff5a;stop-opacity:1"
+         offset="1"
+         id="stop851" />
+    </linearGradient>
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        mask: url(#mask);
+      }
+
+      .cls-3 {
+        fill: #003eff;
+      }
+
+      .cls-4 {
+        fill: #64d662;
+      }
+
+      .cls-5 {
+        fill: #f9d018;
+      }
+    </style>
+    <mask
+       id="mask"
+       x="0"
+       y="-0.00001"
+       width="340.86592"
+       height="348.09346"
+       maskUnits="userSpaceOnUse">
+      <g
+         id="mask-6">
+        <g
+           id="use961">
+          <polygon
+             id="path-5"
+             class="cls-1"
+             points="0,348.093 0,0 340.866,0 340.866,348.093 " />
+        </g>
+      </g>
+    </mask>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient853"
+       id="linearGradient855"
+       x1="111.2291"
+       y1="258.04321"
+       x2="316.1225"
+       y2="100.57674"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28727955,0,0,0.28727955,-0.01165898,0)" />
+  </defs>
+  <title
+     id="title10">Монтажная область 2</title>
+  <path
+     style="fill:#003eff;fill-opacity:1;stroke-width:0.28728"
+     d="M 93.059446,71.707274 80.53656,59.184388 a 0.65301515,0.65301515 0 0 1 0,-0.928111 L 92.596716,46.19612 A 17.039024,17.039024 0 0 0 97.64963,34.303034 16.572821,16.572821 0 0 0 69.356789,22.558437 l -9.961301,9.959982 V 16.857173 C 59.395491,7.5667681 51.963963,0.00795764 42.826031,0 h -0.04906 c -0.07956,0.00132723 -0.160439,0.00132723 -0.241314,0.00265159 A 16.649209,16.649209 0 0 0 26.248619,16.57476 v 4.474827 a 21.977701,21.977701 0 1 0 0,43.117449 v 18.974596 c 0,9.294381 7.436835,16.85584 16.577412,16.85584 l 0.251919,-0.0014 A 16.642486,16.642486 0 0 0 59.334496,84.858532 L 69.620635,95.14732 a 16.46514,16.46514 0 0 0 11.716754,4.8527 h 0.0026 A 16.568161,16.568161 0 0 0 97.912083,83.433215 v -0.01319 A 16.466016,16.466016 0 0 0 93.05938,71.707248"
+     id="path8" />
+  <path
+     style="display:inline;fill:url(#linearGradient855);fill-opacity:1;stroke-width:0.28728"
+     d="m 43.945333,42.601946 v 0.01336 A 21.973111,21.973111 0 0 1 31.942187,62.190533 v 20.501992 c 0,5.92003 4.632607,10.930507 10.549988,11.106854 a 10.892368,10.892368 0 0 0 11.21026,-10.87616 v -9.873775 a 0.98343834,0.98343834 0 0 1 1.677233,-0.696078 L 73.646243,90.621245 A 10.881498,10.881498 0 0 0 89.034344,75.231821 L 72.715475,58.914276 a 0.98188703,0.98188703 0 0 1 0,-1.388189 L 88.7705,41.470975 a 10.892888,10.892888 0 0 0 -1.541993,-16.680827 10.471506,10.471506 0 0 0 -4.15264,-1.718337 10.869742,10.869742 0 0 0 -9.693473,3.011064 L 55.379671,44.084274 a 0.98210536,0.98210536 0 0 1 -1.677233,-0.69343 V 16.073845 A 10.890696,10.890696 0 0 0 42.8223,5.1923883 c -0.108727,0 -0.21877,0.00132 -0.328818,0.00397 C 36.574782,5.3713719 31.94217,10.383191 31.94217,16.304536 v 6.720859 a 21.973766,21.973766 0 0 1 12.003145,19.576539"
+     id="path1" />
+  <path
+     id="path7"
+     style="fill:#f9d018;fill-opacity:1;stroke-width:0.28728"
+     d="m 11.386716,28.246094 v 27.808594 h 13.376953 c 6.473225,0 12.539062,-7.566528 12.539062,-13.904297 0,-6.337769 -6.065837,-13.904297 -12.539062,-13.904297 z m 7.751953,7.160156 h 3.292969 a 6.7649565,6.7649565 0 0 1 6.74414,6.744141 6.7649393,6.7649393 0 0 1 -6.74414,6.746093 h -3.292969 z" />
+</svg>
